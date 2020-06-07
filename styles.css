@@ -52,7 +52,7 @@ body
 .download-media img
 {
     height: 300px;
-    width: 31%;
+    width: 47%;
     padding: 4px;
     margin-bottom: 5px;
     display: block;
@@ -204,8 +204,7 @@ body
     }
     .download-media img
     {
-        height: 100px;
-        width: 80%;
+        width: 47%;
     }
     .span
     {
