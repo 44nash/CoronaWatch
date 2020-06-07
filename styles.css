@@ -202,12 +202,10 @@ body
     {
         width: 47%;
     }
-    .download-media img
-    {
-        width: 47%;
-    }
 
-    #downImage{
+
+    #downImage
+    {
         width: 100%;
     }
     .span
