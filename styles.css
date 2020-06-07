@@ -206,6 +206,10 @@ body
     {
         width: 47%;
     }
+
+    #myImage{
+        width: 75%;
+    }
     .span
     {
         display: block;
